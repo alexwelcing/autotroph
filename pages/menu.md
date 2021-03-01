@@ -1,7 +1,7 @@
 ---
 title: Menu
 metaDescription: A list of seasonally available autotrophs.
-date: 2017-01-01T00:00:00.000Z
+date: 2021-03-01T19:35:03.788Z
 permalink: /menu/index.html
 eleventyNavigation:
   key: Menu
@@ -9,11 +9,13 @@ eleventyNavigation:
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
+![](/static/img/twitch-beluga-whale-pq3aavl.jpg)
+
 Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
+Capitalize\
+on\
+low\
+hanging\
 fruit  
 
 ## Our services
