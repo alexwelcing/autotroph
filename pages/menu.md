@@ -4,7 +4,7 @@ metaDescription: A list of seasonally available autotrophs.
 date: 2017-01-01T00:00:00.000Z
 permalink: /menu/index.html
 eleventyNavigation:
-  key: About
+  key: Menu
   order: 1
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
