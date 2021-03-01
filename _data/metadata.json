@@ -1,5 +1,5 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "description": "A template for building a simple blog website with the Eleventy static site generator, Netlify CMS, and with deployment to Netlify.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+  "title": "Autotrophs",
+  "description": "Organisms that transform sunlight to make foods using photosynthesis. Autotrophs make food for their own use, but they make enough to support other life as well.",
+  "url": "https://autotroph.netlify.app"
 }
