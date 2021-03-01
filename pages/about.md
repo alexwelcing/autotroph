@@ -1,8 +1,8 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+title: Menu
+metaDescription: A list of seasonally available autotrophs.
 date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
+permalink: /menu/index.html
 eleventyNavigation:
   key: About
   order: 1
